@@ -1,0 +1,17 @@
+3. Dec 15, 2017 
+4. 4
+5. Test-Ruby
+To repozytorium zawiera zadania do wykonania z przedmiotu Tworzenie aplikacji bazodanowych
+6. W katalogu TwApB utworzyæ repozytorium Git.
+7. Zapisaæ w nim plik 'ImieNazwisko' i zapisaæ bie¿¹cy stan pliku w repozytorium.
+8. Do innego katalogu sklonowaæ repozytorium zdalne https://github.com/elois/Test-Ruby
+9. Rozwi¹zaæ zadania podane w pliku 'Instrukcja'. Wa¿ne:
+	- pliki z rozwi¹zanimi maj¹ siê znaleŸæ w katalogu 'ImieNazwisko'. Ka¿de zadanie ma siê znaleŸæ w niezale¿nym pliku.
+	- w ka¿dym pliku w nag³ówku w komentarzu maj¹ siê znaleŸæ nastepuj¹ce informacje:
+		- imiê i nazwisko 
+		- bie¿¹ca data
+		- treœæ zadania
+	- w ka¿dym pliku na koñcu kody w komentarzy podaæ przyk³ady prezentuj¹ce dzia³anie programu
+5. Dodaæ wszystkie pliki z kodem do repozyterium w katalogu 'TwApB'
+6. Utworzyæ zdalne repozytorium i wys³aæ na nie ca³¹ zawartoœæ repo z katalogu 'TwApB' i równie¿ odœwie¿on¹ wersjê pliku 'ImieNazwisko'.
+7. Link do repo na GitHubie nale¿y wys³ac na adres: jkolodziejczyk@ajp.edu.pl

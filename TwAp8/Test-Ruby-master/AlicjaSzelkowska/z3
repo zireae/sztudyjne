@@ -1,0 +1,29 @@
+#Alicja Szelkowska
+#15.12.2017
+#Zadanie z tablicami asocjacyjnymi
+#--------------------
+
+# W zadaniu należy zdefiniować dwie tablice asocjacyjne:
+ #1. Zawierającą nazwy województw i ich kody z tablic rejestracyjnych (wybrać 6 dowolnych z listy http://pl.wikipedia.org/wiki/Województwo)
+ #2. Zawierającą listy miast z danego województwa reprezentowanego przez jednoliterowy symbol z tablicy rejestracyjnej (wpisać po kilka lub co najmniej jedno miasto w 4 z 6 województw)
+
+#Wypisać wszystkie miasta ze wszystkich województw, dla których podane są listy miast.
+
+
+w1=%{woj: Lubuskie kod:F}
+w2=%{woj: Opolskie kod:O}
+w3=%{woj: Podlaskie kod:B}
+w4=%{woj: Wielkopolskie kod:P}
+w5=%{woj: Lubelskie kod:L} 
+w6=%{woj: Śląskie kod:S}
+
+puts w1,w2,w3,w4,w5,w6
+
+m1=%{woj: Lubuskie miasto: Gorzów Wlkp, Zielona Góra}
+m2=%{woj: Opolskie miasto: Opole}
+m3=%{woj: Podlaskie miasto: Bielsko Biała}
+m4=%{woj: Wielkopolskie miasto: Poznan}
+m5=%{woj: Lubelskie miasto: Lublin} 
+m6=%{woj: Śląskie miasto: Katowice}
+
+puts m1,m2,m3,m4,m5,m6

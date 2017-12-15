@@ -1,0 +1,28 @@
+
+#Alicja Szelkowska
+#15.12.2017
+#Obliczanie największego wspólnego dzielnika 2 liczb:
+#-------
+#Napisać funkcję obliczającą największy wspólny dzielnik dla dwóch zadanych liczb zgodnie z regułami :
+
+#1. Jeżeli obie liczby x1 i x2 są równe, to NWD jest równy x1
+#2. Jeżeli liczba x1  jest większa od x2 to NWD jest równy wynikowi z obliczenia NWD dla #liczb x2 i różnicy x1 i x2
+#3. Jeżeli liczba x2  jest większa od x1 to NWD jest równy wynikowi z obliczenia NWD dla liczb x1 i różnicy x2 i x1
+
+a=gets.champ!
+b=gets.champ!
+
+if a = b
+	puts "nwd #{a}"
+
+elsif a > b
+	x=
+	y=a-b
+	puts "nwd (#{x},#{y})"
+
+elsif a < b
+	t=
+	z=b-a
+	puts "nwd (#{t},#{z})"
+
+end
